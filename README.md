@@ -68,5 +68,16 @@ Decision Trees offer a transparent and intuitive way to model complex decision-m
 •	Visualized the model both textually and graphically, which enhances interpretability.
 •	This exercise showcases the power of Scikit-learn and Python as effective tools for developing machine learning models, especially when explainability is crucial.
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/446c401e-4e6f-4b4a-9b2a-6472043a5f29)
+
+![Image](https://github.com/user-attachments/assets/d60901ad-6c9c-4f7f-a653-fea2f8eb068e)
+
+![Image](https://github.com/user-attachments/assets/2ace0d87-8d1d-4f7b-98ba-e92abbc77add)
+
+![Image](https://github.com/user-attachments/assets/646e5053-f5ce-4a9c-99a0-f46942c997e8)
+
+
 
 
