@@ -45,6 +45,10 @@ To interpret the model’s decision-making process, both text-based and graphica
 •	The textual visualization (export_text) prints out the decision rules in a human-readable form, showing which feature thresholds are used at each split.
 •	The graphical visualization (plot_tree) provides an intuitive diagram of the decision tree. Each node displays the feature condition, class distribution, and predicted class. Colored nodes represent the most likely classification at each decision point.
 
+DATASET USED :
+
+The code uses the Iris dataset, a well-known dataset in machine learning containing 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width. The goal is to classify each flower into one of three species: Setosa, Versicolor, or Virginica.
+
 PLATFORM USED
 
 The code can be executed on any platform that supports Python. Common platforms include:
