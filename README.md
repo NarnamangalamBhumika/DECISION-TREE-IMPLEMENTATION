@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-DESCRIPTION OF DECISION MAKING TREE
+DESCRIPTION OF DECISION MAKING TREE :
 
 A Decision Tree is a supervised machine learning algorithm used for classification and regression tasks. It mimics human decision-making by breaking down a dataset into smaller subsets while at the same time developing an associated tree structure. The tree consists of decision nodes (conditions on features) and leaf nodes (final decisions or predictions).
 In the case of the Iris dataset, the decision tree classifies iris flowers into three species (setosa, versicolor, virginica) based on four features:
@@ -21,7 +21,7 @@ In the case of the Iris dataset, the decision tree classifies iris flowers into 
 •	Petal length
 •	Petal width
 
-TOOLS USED FOR DECISION MAKING TREE CODE
+TOOLS USED FOR DECISION MAKING TREE CODE :
 
 The decision tree classifier in this project was built using:
 •	Python: Programming language used for implementation.
@@ -34,12 +34,12 @@ o	Visualizing the model (export_text, plot_tree)
 •	Matplotlib: Used for plotting the decision tree graph.
 •	Pandas: Used to convert the dataset into a readable table (DataFrame).
 
-IMPLEMENTATION OF DECISION MAKING TREE
+IMPLEMENTATION OF DECISION MAKING TREE :
 
 The decision tree was implemented using the Scikit-learn library in Python, which provides powerful tools for machine learning tasks. The process began with loading the Iris dataset, a well-known classification dataset containing measurements of three iris flower species. The dataset was split into training and testing subsets to evaluate the model's performance reliably.
 A DecisionTreeClassifier was then initialized using the Gini impurity criterion and a maximum depth to prevent overfitting. The model was trained on the training data, allowing it to learn how to classify flowers based on the input features (sepal and petal dimensions). After training, the model was tested on unseen data, and its accuracy was calculated to assess its predictive performance
 
-VISUALISATION OF DECISION MAKING TREE
+VISUALISATION OF DECISION MAKING TREE :
 
 To interpret the model’s decision-making process, both text-based and graphical visualizations were generated:
 •	The textual visualization (export_text) prints out the decision rules in a human-readable form, showing which feature thresholds are used at each split.
@@ -49,14 +49,14 @@ DATASET USED :
 
 The code uses the Iris dataset, a well-known dataset in machine learning containing 150 samples of iris flowers with four features: sepal length, sepal width, petal length, and petal width. The goal is to classify each flower into one of three species: Setosa, Versicolor, or Virginica.
 
-PLATFORM USED
+PLATFORM USED :
 
 The code can be executed on any platform that supports Python. Common platforms include:
 •	Local IDEs: Jupyter Notebook, PyCharm, VS Code
 •	Online Platforms: Google Colab, Kaggle Kernels, or any cloud-based Jupyter environment
 For beginners, Google Colab is often preferred because it requires no setup and provides free access to GPUs
 
-APPLICATIONS OF DECISION MAKING TREE
+APPLICATIONS OF DECISION MAKING TREE :
 
 •	Medical Diagnosis: Predicting diseases based on symptoms
 
@@ -68,7 +68,7 @@ APPLICATIONS OF DECISION MAKING TREE
 
 •	Education: Student performance prediction
 
-CONCLUSION
+CONCLUSION :
 
 Decision Trees offer a transparent and intuitive way to model complex decision-making processes. In this project:
 •	We successfully trained a Decision Tree model on the Iris dataset.
@@ -76,7 +76,7 @@ Decision Trees offer a transparent and intuitive way to model complex decision-m
 •	Visualized the model both textually and graphically, which enhances interpretability.
 •	This exercise showcases the power of Scikit-learn and Python as effective tools for developing machine learning models, especially when explainability is crucial.
 
-OUTPUT
+OUTPUT :
 
 ![Image](https://github.com/user-attachments/assets/446c401e-4e6f-4b4a-9b2a-6472043a5f29)
 
