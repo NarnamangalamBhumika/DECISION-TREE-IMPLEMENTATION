@@ -59,9 +59,13 @@ For beginners, Google Colab is often preferred because it requires no setup and 
 APPLICATIONS OF DECISION MAKING TREE
 
 •	Medical Diagnosis: Predicting diseases based on symptoms
+
 •	Finance: Credit risk assessment, loan approval systems
+
 •	Marketing: Customer segmentation and targeting
+
 •	Agriculture: Predicting crop yields based on soil and weather data
+
 •	Education: Student performance prediction
 
 CONCLUSION
